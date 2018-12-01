@@ -58,7 +58,6 @@ j = 1;
 
 
 
-
 client.on('message', msg => {
   if (msg.content === 'السعودية') {      
     msg.react("🇸🇦")
@@ -401,8 +400,8 @@ if (message.content === '$help') {
       .addField("**❖ $rps**","**لعبة حجرة ورقة مقص**")
       .addField("**❖ $[Soon]**","**لعبة كت  تويت**")
       .addField("**۩ஜ▬▬▬▬▬▬✦Info✦▬▬▬▬▬▬ஜ۩**","** **")
-      .addField("**❖ --->**","**Made By : ! - Mdax .#0518**")
-      .addField("**❖ --->**","**Bot Server :https://discord.gg/Y9x7zqe**")
+      .addField("**❖ --->**","**Made By : Mdax77x**")
+      .addField("**❖ --->**","**Bot Server :https://discord.gg/GK3JJpT**")
 
     .setColor('#e9ab26')
   message.author.sendEmbed(embed);
